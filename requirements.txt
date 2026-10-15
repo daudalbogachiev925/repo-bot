@@ -1,0 +1,10 @@
+PyGithub==2.2.0
+PyYAML==6.0.1
+requests==2.31.0
+python-dotenv==1.0.1
+openai==1.30.0
+anthropic==0.25.0
+rich==13.7.1
+tenacity==8.2.3
+tqdm==4.66.2
+pytest==8.1.1
